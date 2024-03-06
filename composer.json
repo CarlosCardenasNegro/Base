@@ -1,0 +1,19 @@
+{
+    "name": "ccn/base",
+    "description": "Simple HMTL Form utility. Too basic. Only to learning. Not for nothing more..¡¡",
+    "keywords": ["html", "html form", "forme fields styling", "utils"],
+    "homepage": "https://github.com/CarlosCardenasNegro",
+    "time": "2024-01-27",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Cárdenas Negro",
+            "email": "carloscardenasnegro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CCN\\Base\\": "src/"
+        }
+    }
+}
